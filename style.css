@@ -1,0 +1,32 @@
+body {
+    color: green;
+};
+
+.main-container {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+ 
+}
+
+.search-box{
+    width: 50%;
+    text-align: center;
+    align-content: center;
+    justify-content: center;
+}
+
+
+#input {
+    color: green;
+}
+
+input {
+    display: flex;
+    flex-direction: row;
+    border-radius: 2mm;
+    width: 50%;
+    box-shadow: none;
+    height: 3mm;
+}
